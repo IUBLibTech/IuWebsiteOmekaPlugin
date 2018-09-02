@@ -5,6 +5,8 @@ This plugin adds the official IU Header and Footer Branding to an Omeka site.
 
 Download and install the IU Website plugin.
 
+After uncompressing the zip file, rename the directory to IuWebsite and then install as any other Omeka plugin.
+
 Currently the Privacy Policy links to IU's default policy.
 
 If you want to change where the Privacy Policy links to:
