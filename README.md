@@ -3,9 +3,9 @@ IU Website
 
 This plugin adds the official IU Header and Footer Branding to an Omeka site.
 
-Download and install the IU Website plugin.
+Download and install the IU Website plugin from the most recent release.
 
-After uncompressing the zip file, rename the directory to IuWebsite and then install as any other Omeka plugin.
+After uncompressing the zip file, make sure the directory is named IuWebsite and then install as any other Omeka plugin.
 
 Currently the Privacy Policy links to IU's default policy.
 
